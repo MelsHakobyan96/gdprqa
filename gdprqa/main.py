@@ -3,8 +3,8 @@ import asyncio
 import os
 import sys
 from feedbackIntelligence.fi import FeedbackIntelligenceSDK
-from config_ import fi_api_key
-from feedbackIntelligence.schemas import Message, Context, Feedback
+from config import fi_api_key
+from feedbackIntelligence.schemas import Message, Context
 import random
 sys.path.append(os.path.join(os.path.dirname(__file__), 'gdprqa'))
 
