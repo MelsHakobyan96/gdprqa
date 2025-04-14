@@ -1,7 +1,5 @@
 # gdprqa RAG project Documentation
 
-Mels Hakobyan
-
 ### Step 1. Installation
 
 Python version - 3.12.3
